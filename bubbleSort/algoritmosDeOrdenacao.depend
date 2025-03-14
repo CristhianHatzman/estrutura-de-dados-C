@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741907799 source:c:\users\fatec-dsm2\documents\codeblox\estrutura-de-dados-c\algoritmosdeordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+
